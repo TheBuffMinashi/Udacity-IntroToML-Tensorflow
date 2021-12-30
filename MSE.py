@@ -3,7 +3,7 @@ import numpy as np
 print('Hello, world!')
 
 # Create a function to calculate
-# Mean Absolute Error
+# Mean Squared Error
 
 def MSE(slope, interceptor, Xs, Ys):
 
